@@ -1,0 +1,46 @@
+.container{
+    background-color: black;
+    height: 900px;
+    width: 900px;
+    text-align: center;
+    
+    margin: auto;
+    
+   
+
+}
+h1{
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    border-bottom: solid white 1px;
+    display: inline-block;
+
+}
+.image{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+
+    
+
+    
+}
+.image img{
+    width: 25%;
+    height: 200px;
+    padding: 10px;
+    margin :10px;
+    
+    
+}
+.image img:hover{
+    width: 28%;
+    height: 250px;
+    border: solid white 1px;
+    
+
+}
+
